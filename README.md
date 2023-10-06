@@ -1,6 +1,6 @@
 <img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250" align="right">
 
-ChatRoom
+ChatRoommmmmm
 ========
 
 Build a simple chatroom using Angular, services, and the $http service
